@@ -3,4 +3,12 @@ FlowSense IoT: plataforma web en Django para monitorear y controlar en tiempo re
 
 
 
-  Integrantes:  DANIEL ALARCÓN ARAYA  VICTORIA CALDERON  BARTOLOMÉ COZ CUEVAS  SEBASTIÁN MARÍN CASTRO
+  Integrantes: 
+  
+  DANIEL ALARCÓN ARAYA 
+  
+  VICTORIA CALDERON  
+  
+  BARTOLOMÉ COZ CUEVAS 
+  
+  SEBASTIÁN MARÍN CASTRO
